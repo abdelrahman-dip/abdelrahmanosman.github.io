@@ -22,5 +22,5 @@ This research demonstrates the TAE’s potential for enhanced performance in dyn
 
 **Keywords:** Transformer Autoencoder, self-attention mechanisms, MIMO radar, signal reconstruction, antenna dropout, low-SNR processing, multi-target environments, deep learning for radar  
 
-📄 [Download Full Paper](https://abdelrahmanosman.github.io/files/Transformer Autoencoder for Robust MIMO Radar Signal Reconstruction with Antenna Dropout.pdf) 
-📄 [Acceptance Letter](main/files/Acceptance Letter - 047 (1).pdf)  
+📄 [Download Full Paper](http://abdelrahmanosman.github.io/files/Transformer Autoencoder for Robust MIMO Radar Signal Reconstruction with Antenna Dropout.pdf) 
+📄 [Acceptance Letter]((http://abdelrahmanosman.github.io/files/Acceptance Letter - 047 (1).pdf)  
