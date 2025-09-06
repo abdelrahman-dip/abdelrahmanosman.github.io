@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About — Abdo Abdo"
+title: "About — Abdelrahman"
 author_profile: true
 redirect_from:
   - /about/
