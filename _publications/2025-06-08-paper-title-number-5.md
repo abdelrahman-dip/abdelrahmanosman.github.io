@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Violence Detection in Automated Surveillance using CNN"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-06-violence-detection-cnn
+excerpt: 'Autonomous surveillance system for real-time violence detection using CNN and MobileNetV2 architecture.'
+date: 2024-06-20
+venue: '2024 4th International Conference on Intelligent Technologies (CONIT)'
+paperurl: 'https://ieeexplore.ieee.org/document/10626390'
+citation: 'A. Abdo, et al. (2024). "Violence Detection in Automated Surveillance using CNN." In <i>2024 4th International Conference on Intelligent Technologies (CONIT)</i>. IEEE.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+**Abstract:**  
+This paper presents an autonomous surveillance system for real-time violence detection using a **Convolutional Neural Network (CNN)** architecture. Leveraging **MobileNetV2**, a lightweight deep neural network optimized for resource-constrained environments, the proposed model efficiently extracts features and classifies violent activities in video streams. Designed for high-performance applications with minimal computational requirements, the system achieved an impressive **99% accuracy** on benchmark datasets, ensuring timely alerts to authorities and enhancing the effectiveness of automated security monitoring.
