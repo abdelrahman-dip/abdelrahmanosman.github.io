@@ -25,9 +25,6 @@ Work experience
   - [Certificate](https://drive.google.com/file/d/1rTh2Z06NNHmFzH8p2UJUhfIQUgE3UKz5/view?usp=sharing)
 
 
-
-
-
 Publications
 ======
 *“Transformer Autoencoder for Robust MIMO Radar Signal Reconstruction with Antenna Dropout”*, Accepted — 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA 2025). [Acceptance letter / proof (PDF)](https://drive.google.com/file/d/1C6SDu4yWtEn1S4FBNSt8FjYkWf23fsy8/view?usp=sharing)
@@ -35,8 +32,4 @@ Publications
 *“Violence Detection in Automated Surveillance using CNN”*, 2024 4th International Conference on Intelligent Technologies (CONIT). [IEEE Xplore](https://ieeexplore.ieee.org/document/10626390)
 
 
-Achievements
-======
-* **Fully funded Government of India scholarship** for undergraduate studies — *March 2021*. [Certificate](https://drive.google.com/file/d/1tY56DKGgmXGcUe7H1oY0kIv5bd9o-qer/view?usp=sharing)  
-* **Fully funded UESTC scholarship** for Master’s studies — *July 2024*. [Certificate](https://drive.google.com/file/d/1tY56DKGgmXGcUe7H1oY0kIv5bd9o-qer/view?usp=sharing)
 
