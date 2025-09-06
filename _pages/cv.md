@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Electronic Science and Engineering**, University of Electronic Science and Technology of China (UESTC)  
+  *July 2024 — July 2026 (expected)*  
+
+* **B.E. in Electronics and Communication Engineering**, Delhi Technological University (DTU), India  
+  *June 2023*
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Engineering Intern, Qualcomm India**  
+  *May 2022 — July 2022*  
+  - Engineering internship focused on applied communications/RF tasks and system-level verification.  
+  - [Certificate](https://drive.google.com/file/d/1rTh2Z06NNHmFzH8p2UJUhfIQUgE3UKz5/view?usp=sharing)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+*“Transformer Autoencoder for Robust MIMO Radar Signal Reconstruction with Antenna Dropout”*, Accepted — 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA 2025). [Acceptance letter / proof (PDF)](https://drive.google.com/file/d/1C6SDu4yWtEn1S4FBNSt8FjYkWf23fsy8/view?usp=sharing)
+
+*“Violence Detection in Automated Surveillance using CNN”*, 2024 4th International Conference on Intelligent Technologies (CONIT). [IEEE Xplore](https://ieeexplore.ieee.org/document/10626390)
+
+
+Achievements
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Fully funded Government of India scholarship** for undergraduate studies — *March 2021*. [Certificate](https://drive.google.com/file/d/1tY56DKGgmXGcUe7H1oY0kIv5bd9o-qer/view?usp=sharing)  
+* **Fully funded UESTC scholarship** for Master’s studies — *July 2024*. [Certificate](https://drive.google.com/file/d/1tY56DKGgmXGcUe7H1oY0kIv5bd9o-qer/view?usp=sharing)
+
