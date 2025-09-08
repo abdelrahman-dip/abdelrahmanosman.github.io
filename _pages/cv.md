@@ -22,7 +22,7 @@ Work experience
 * **Engineering Intern, Qualcomm India**  
   *May 2022 — July 2022*  
   - Engineering internship focused on applied communications/RF tasks and system-level verification.  
-  - [Certificate](https://drive.google.com/file/d/1rTh2Z06NNHmFzH8p2UJUhfIQUgE3UKz5/view?usp=sharing)
+  - [Certificate](http://abdelrahman-dip.github.io/abdelrahmanosman.github.io/files/Qualcomm%20internship%20certificate(Abdelrahman).pdf)
 
 
 Publications
